@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>robinliucn.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="robinliucn.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>robinliucn.github.io/about/</link>
+      <pubDate>Mon, 23 Nov 2020 04:02:18 +0800</pubDate>
+      
+      <guid>robinliucn.github.io/about/</guid>
+      <description>这是一个新世界！</description>
+    </item>
+    
+  </channel>
+</rss>
